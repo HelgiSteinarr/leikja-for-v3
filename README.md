@@ -5,8 +5,8 @@
 1. 
    * **Spurning**: "Hvað er leikjavél? Berðu saman **Unity** leikjavélina við aðra leikjavél að eigin vali t.d. **Unreal**." 
    * **Svar**: Það er hægt að hugsa leikjavél sem einskonar kjarna leiksins og sér um allt basic bakgrunnar dótið eins og GameLoop-ið, memory management og margt fleira. Flestar leikjavélar og allar stærstu eru það sem ég sagði hér fyrir framan og er líka á sama tíma tól til að gera leikjagerðina bæði þægilegri og léttari.<br><br>
-        * **Unity**:  Unity er tiltölulega einföld leikjavél og með frekar lítið "leraning curve" miðað við aðrar stórar leikjavélar. Flestir ættu að geta hoppað inní Unity og gert einfaldan leik frekar fljótlega án mikils vanda. Þetta simplicity kemur mest kostnaði hinsvegar og er ekki eins flexible eins og aðrar vélar t.d. Unreal.<br>
-        * **Unreal**:
+        * **Unity**:  Unity er tiltölulega einföld leikjavél og með frekar lítið "learning curve" miðað við aðrar stórar leikjavélar. Flestir ættu að geta hoppað inní Unity og gert einfaldan leik frekar fljótlega án mikils vanda. Þetta simplicity kemur mest kostnaði hinsvegar og er ekki eins flexible eins og aðrar vélar t.d. Unreal.<br>
+        * **Unreal**: Unreal er mikið flóknari í notkun heldur en Unity og mikið meira "learning curve". Unreal er líka talin vera með bestu grafíska möguleika af öllum leikjavélum sem eru aðgengilegar almenningi en auðvitað fer það eftir hvað takmarkið þitt er með leiknum. Unreal er generally ekki mælt með fyrir byrjendur enda mikið flóknari en ef þú hefur þekkingu á öðrum leikjavélum ætti ekki að vera mikið mál að færa sig yfir í unreal. 
 <br>
 
 2.
